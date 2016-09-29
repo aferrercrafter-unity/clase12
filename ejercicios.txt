@@ -1,0 +1,26 @@
+1) Poner camara mirando hacia pared
+
+2) Hacer que al tocar una tecla se reproduzca un sonido de disparo
+
+3) Agregar que haya un sonido en la pared de impacto de bala
+
+4) Agregar un chispazo (o particulas) en la pared cuando "impacta" la bala
+
+5) Agregar un sonido de casquillo que cae tras el disparo
+
+6) Hacer que el jugador pueda disparar solamente 5 veces, a la 5ta se quede sin balas y en vez de escucharse el disparo se escuche el sonido del arma vacia
+
+7) Hacer que al tocar otra tecla se recargue el arma y tras recargarse pueda volver a disparar
+
+
+------
+
+8) Crear una pelotita que agarre cajitas
+
+9) Al agarrar cada caja debe hacer un sonido
+
+10) Cada vez que agarra una caja y paso poco tiempo desde que agarro la anterior, el sonido se hace mas agudo
+
+11) Meter un corredor con un reverb zone y probar que los sonidos de los power ups que se agarran se afecten
+
+
